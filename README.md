@@ -6,17 +6,20 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+   My name is Lucas and i've always been interested in games since i was a kid. I was interested in how games were made and I wanted to be a part of that. My pronouns are he/him. I like to play Black Ops 3 specifically nuketown map, Rainbow 6 Siege, NCAA 25 Football, and 2k. I've created a small game of code.org but thats about it. I hope to build fps games in the future.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
-    - [ ] Undecided
+    - [yes] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+   I hope to learn how to code in different languages.
 4. What, if anything, are you nervous about for this class?
+   I am nervous of not being able to code as fast as others and not being able to keep up with the class.
 
 ## Prior Experience
 
@@ -24,11 +27,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. Programming (any languages/ frameworks) n/a
 
-2. Game development (any engine)
+2. Game development (any engine)n/a
 
-3. Unity
+3. Unityn/a
 
 ### Programming & Game Development Concepts
 
@@ -39,15 +42,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Game design document n/a
 
-2. Scope management
+2. Scope management n/a
 
-3. Iteration
+3. Iteration n/a
 
-4. Object-Oriented programming
+4. Object-Oriented programming n/a
 
-5. Model-View-Controller architecture
+5. Model-View-Controller architecture n/a
 
 ## Complete!
 
